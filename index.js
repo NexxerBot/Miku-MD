@@ -133,13 +133,13 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 try {
                     ppuser = await Miku.profilePictureUrl(num, 'image')
                 } catch {
-                    ppuser = 'https://wallpapercave.com/wp/wp10753770.jpg'
+                    ppuser = 'https://telegra.ph/file/ec911573129e67039e631.jpg'
                 }
 
                 try {
                     ppgroup = await Miku.profilePictureUrl(anu.id, 'image')
                 } catch {
-                    ppgroup = 'https://telegra.ph/file/4cc2712eee93c105f6739.jpg'
+                    ppgroup = 'https://telegra.ph/file/aad93947fe5ac77cbbdb5.jpg'
                 }
 
                 let targetname = await Miku.getName(num)
@@ -168,9 +168,9 @@ Miku.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                 	let WAuserName = num
                     mikutext = `
-@${WAuserName.split("@")[0]} left the group,
+@${WAuserName.split("@")[0]} virgin left the group,
 
-😂 He/She thinks we are going to miss him/her 💔!
+🐧 He/She thinks we are going to miss him/her 💔!
 `
 
     let buttonMessage = {
