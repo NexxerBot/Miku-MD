@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2349051064375']
-global.OwnerNumber = ['2349051064375']
-global.ownertag = ['2349051064375']
-global.BotName = "Ethan-v2"
-global.packname = "Ethan-v2"
-global.author = "By: JayJay-Ops"
-global.OwnerName = "JayJay-Ops"
-global.BotSourceCode = "https://github.com/jayjay-ops/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['916003951523']
+global.OwnerNumber = ['916003951523']
+global.ownertag = ['916003951523']
+global.BotName = "💘Ｈｉｎａｔａ"
+global.packname = " ▀▄▀▄ Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ ▄▀▄▀ "
+global.author = ""
+global.OwnerName = "Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ"
+global.BotSourceCode = "https://chat.whatsapp.com/ExBAn7bi0zrDq3aSXH3Obf"
+global.SupportGroupLink = "https://chat.whatsapp.com/ExBAn7bi0zrDq3aSXH3Obf"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,9 +23,9 @@ global.sessionName = "session"
 global.prefa = ['!'] 
 
 
-global.location = "Edo State, Nigeria"
-global.reactmoji = "🌹"
-global.themeemoji = "🤴"
+global.location = "West Bengal, India"
+global.reactmoji = "💖"
+global.themeemoji = "🐧"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/jayjay-ops"
 global.lolhuman = "is this play 😂"
@@ -61,10 +61,10 @@ global.mess = {
     jobdone: 'Job done...',
     useradmin: 'Sorry, only *Group Admins* can use this command!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, sorry.',
+    botowner: 'Only my *Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ* can use this command, sorry.',
     grouponly: 'This command is only made for *Groups* !',
     privateonly: 'This command is only made for *Private Chat*.',
-    botonly: 'Only the *Bot itself* can use this command!',
+    botonly: 'Only the *𝐇𝐢𝐧𝐚𝐭𝐚 𝐢𝐭𝐬𝐞𝐥𝐟* can use this command!',
     waiting: 'please wait...',
     nolink: 'Please provide me a valid *link* !',
     error: 'An error occurred!',
