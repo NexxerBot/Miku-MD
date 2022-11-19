@@ -5381,7 +5381,7 @@ Owner Name : ${global.OwnerName}
 ║
 ╚════════════╝ 
 
-╔════⧫🎀𝑶𝒘𝒏𝒆𝒓🎀
+╔════⧫🎀Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ🎀
 ║
 ║ ${prefix}self
 ║ ${prefix}public
@@ -5638,7 +5638,7 @@ Owner Name : ${global.OwnerName}
 
 
  『  *${global.BotName}*  』
- Powered by: *Fantox*
+ Powered by: *Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ*
 
  🎐 To use any of these commands type 
  " *${prefix}<Command name>* ".
@@ -5723,7 +5723,7 @@ case 'help': case 'h': {
 
 
  『  *${global.BotName}*  』
- Powered by: *Fantox*
+ Powered by: *Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ*
 
 🎐 To use any of these commands type 
   *"${prefix}<Command name>".*
